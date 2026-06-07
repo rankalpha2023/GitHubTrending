@@ -1,0 +1,107 @@
+[
+  {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "star": "1097"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "star": "89"
+  },
+  {
+    "title": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "language": "Shell",
+    "star": "1104"
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "star": "1117"
+  },
+  {
+    "title": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "star": "555"
+  },
+  {
+    "title": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "star": "180"
+  },
+  {
+    "title": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "star": "338"
+  },
+  {
+    "title": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "star": "304"
+  },
+  {
+    "title": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "star": "197"
+  },
+  {
+    "title": "RyanCodrai/turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "language": "Python",
+    "star": "1533"
+  },
+  {
+    "title": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "star": "355"
+  },
+  {
+    "title": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "star": "262"
+  },
+  {
+    "title": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "star": "242"
+  },
+  {
+    "title": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "microsoft/pg_durable",
+    "url": "https://github.com/microsoft/pg_durable",
+    "description": "PostgreSQL in-database durable execution",
+    "language": "Rust",
+    "star": "314"
+  }
+]
