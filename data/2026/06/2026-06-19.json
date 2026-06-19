@@ -1,0 +1,107 @@
+[
+  {
+    "title": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "star": "1055"
+  },
+  {
+    "title": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "star": "1516"
+  },
+  {
+    "title": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "star": "749"
+  },
+  {
+    "title": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "star": "300"
+  },
+  {
+    "title": "aishwaryanr/awesome-generative-ai-guide",
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "language": "HTML",
+    "star": "203"
+  },
+  {
+    "title": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.",
+    "language": "TypeScript",
+    "star": "210"
+  },
+  {
+    "title": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "star": "3938"
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "star": "236"
+  },
+  {
+    "title": "zai-org/GLM-5",
+    "url": "https://github.com/zai-org/GLM-5",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "language": "none",
+    "star": "478"
+  },
+  {
+    "title": "withastro/flue",
+    "url": "https://github.com/withastro/flue",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "star": "305"
+  },
+  {
+    "title": "n0-computer/iroh",
+    "url": "https://github.com/n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "star": "307"
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "1113"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "star": "318"
+  },
+  {
+    "title": "Kong/insomnia",
+    "url": "https://github.com/Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "star": "291"
+  },
+  {
+    "title": "Lightricks/LTX-2",
+    "url": "https://github.com/Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "star": "196"
+  }
+]
