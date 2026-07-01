@@ -1,0 +1,142 @@
+[
+  {
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "star": "2097"
+  },
+  {
+    "title": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "star": "1195"
+  },
+  {
+    "title": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python",
+    "star": "682"
+  },
+  {
+    "title": "hasaneyldrm/exercises-dataset",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "language": "HTML",
+    "star": "1343"
+  },
+  {
+    "title": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "star": "714"
+  },
+  {
+    "title": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "language": "TypeScript",
+    "star": "1012"
+  },
+  {
+    "title": "allenai/olmocr",
+    "url": "https://github.com/allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "star": "295"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "language": "TypeScript",
+    "star": "131"
+  },
+  {
+    "title": "togatoga/karukan",
+    "url": "https://github.com/togatoga/karukan",
+    "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+    "language": "Rust",
+    "star": "29"
+  },
+  {
+    "title": "Mebus/cupp",
+    "url": "https://github.com/Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "language": "Python",
+    "star": "185"
+  },
+  {
+    "title": "Unclecheng-li/VulnClaw",
+    "url": "https://github.com/Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "language": "Python",
+    "star": "123"
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "star": "1086"
+  },
+  {
+    "title": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "language": "TypeScript",
+    "star": "160"
+  },
+  {
+    "title": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "star": "611"
+  },
+  {
+    "title": "0xNyk/council-of-high-intelligence",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "language": "Shell",
+    "star": "473"
+  },
+  {
+    "title": "altic-dev/FluidVoice",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+    "language": "Swift",
+    "star": "568"
+  },
+  {
+    "title": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "language": "TypeScript",
+    "star": "518"
+  },
+  {
+    "title": "TencentCloud/CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "star": "46"
+  },
+  {
+    "title": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "language": "Python",
+    "star": "690"
+  },
+  {
+    "title": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "language": "TypeScript",
+    "star": "149"
+  }
+]
