@@ -1,0 +1,135 @@
+[
+  {
+    "title": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "language": "TypeScript",
+    "star": "349"
+  },
+  {
+    "title": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Rust",
+    "star": "307"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "star": "106"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "1114"
+  },
+  {
+    "title": "jbeder/yaml-cpp",
+    "url": "https://github.com/jbeder/yaml-cpp",
+    "description": "A YAML parser and emitter in C++",
+    "language": "C++",
+    "star": "65"
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "language": "Shell",
+    "star": "1728"
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "1096"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "star": "166"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "69"
+  },
+  {
+    "title": "chriskohlhoff/asio",
+    "url": "https://github.com/chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "language": "C++",
+    "star": "87"
+  },
+  {
+    "title": "TencentCloud/TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "language": "TypeScript",
+    "star": "134"
+  },
+  {
+    "title": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "zeux/meshoptimizer",
+    "url": "https://github.com/zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "language": "C++",
+    "star": "86"
+  },
+  {
+    "title": "tailscale/tailscale",
+    "url": "https://github.com/tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "language": "Go",
+    "star": "183"
+  },
+  {
+    "title": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "star": "101"
+  },
+  {
+    "title": "iOfficeAI/OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "language": "C#",
+    "star": "1210"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "star": "168"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "language": "C++",
+    "star": "68"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "176"
+  }
+]
