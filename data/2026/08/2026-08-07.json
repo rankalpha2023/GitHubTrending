@@ -1,0 +1,121 @@
+[
+  {
+    "title": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "star": "2271"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "1131"
+  },
+  {
+    "title": "cloudflare/computer",
+    "url": "https://github.com/cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "language": "TypeScript",
+    "star": "894"
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "star": "2180"
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "794"
+  },
+  {
+    "title": "goauthentik/authentik",
+    "url": "https://github.com/goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "star": "544"
+  },
+  {
+    "title": "semantica-agi/semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "chenyme/grok2api",
+    "url": "https://github.com/chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "jdx/mise",
+    "url": "https://github.com/jdx/mise",
+    "description": "dev tools, env vars, task runner",
+    "language": "Rust",
+    "star": "130"
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "star": "363"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "star": "156"
+  },
+  {
+    "title": "unclebob/swarm-forge",
+    "url": "https://github.com/unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.",
+    "language": "Clojure",
+    "star": "85"
+  },
+  {
+    "title": "denoland/celld",
+    "url": "https://github.com/denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "language": "Rust",
+    "star": "546"
+  },
+  {
+    "title": "K2SOsint/Legendary_OSINT",
+    "url": "https://github.com/K2SOsint/Legendary_OSINT",
+    "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "pranshuparmar/witr",
+    "url": "https://github.com/pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "language": "Go",
+    "star": "308"
+  },
+  {
+    "title": "google/skills",
+    "url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "star": "305"
+  }
+]
