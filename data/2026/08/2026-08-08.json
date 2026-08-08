@@ -1,0 +1,86 @@
+[
+  {
+    "title": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "star": "2483"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "778"
+  },
+  {
+    "title": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "star": "591"
+  },
+  {
+    "title": "google/skills",
+    "url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "star": "481"
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "star": "1354"
+  },
+  {
+    "title": "goauthentik/authentik",
+    "url": "https://github.com/goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "star": "467"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "denoland/celld",
+    "url": "https://github.com/denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "language": "Rust",
+    "star": "432"
+  },
+  {
+    "title": "litu54/DevOps-Interview-Guide",
+    "url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "Kotlin",
+    "star": "161"
+  }
+]
