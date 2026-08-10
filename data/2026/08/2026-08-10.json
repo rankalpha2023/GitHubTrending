@@ -1,0 +1,114 @@
+[
+  {
+    "title": "semantica-agi/semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "language": "Python",
+    "star": "967"
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "star": "1352"
+  },
+  {
+    "title": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "star": "215"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "659"
+  },
+  {
+    "title": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "star": "167"
+  },
+  {
+    "title": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "language": "TypeScript",
+    "star": "2655"
+  },
+  {
+    "title": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "star": "190"
+  },
+  {
+    "title": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "star": "186"
+  },
+  {
+    "title": "danielmiessler/LifeOS",
+    "url": "https://github.com/danielmiessler/LifeOS",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "language": "TypeScript",
+    "star": "143"
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "language": "TypeScript",
+    "star": "815"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "star": "234"
+  },
+  {
+    "title": "google-deepmind/weathernext",
+    "url": "https://github.com/google-deepmind/weathernext",
+    "description": "",
+    "language": "Python",
+    "star": "327"
+  },
+  {
+    "title": "vitali87/code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "language": "Python",
+    "star": "682"
+  },
+  {
+    "title": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "star": "388"
+  },
+  {
+    "title": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "star": "921"
+  },
+  {
+    "title": "opa334/Dopamine",
+    "url": "https://github.com/opa334/Dopamine",
+    "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "language": "C",
+    "star": "95"
+  }
+]
