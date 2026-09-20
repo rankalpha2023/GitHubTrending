@@ -1,0 +1,93 @@
+[
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "star": "837"
+  },
+  {
+    "title": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "star": "89"
+  },
+  {
+    "title": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "star": "2375"
+  },
+  {
+    "title": "trycua/cua",
+    "url": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "star": "1012"
+  },
+  {
+    "title": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "star": "236"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "star": "415"
+  },
+  {
+    "title": "mihail911/modern-software-dev-assignments",
+    "url": "https://github.com/mihail911/modern-software-dev-assignments",
+    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "language": "Python",
+    "star": "174"
+  },
+  {
+    "title": "higgsfield-ai/higgsfield",
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "language": "Jupyter Notebook",
+    "star": "461"
+  },
+  {
+    "title": "Open-Dev-Society/OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "star": "752"
+  },
+  {
+    "title": "coder/coder",
+    "url": "https://github.com/coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "star": "382"
+  },
+  {
+    "title": "vercel-labs/json-render",
+    "url": "https://github.com/vercel-labs/json-render",
+    "description": "The Generative UI framework",
+    "language": "TypeScript",
+    "star": "332"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "729"
+  }
+]
